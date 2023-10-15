@@ -28,10 +28,7 @@ function Mynav()
                                     </li>
                                     <li className="nav-item">
                                         <Link className="nav-link" to="service">Service</Link>
-                                    </li>
-                                    <li className="nav-item">
-                                        <Link className="nav-link" to="mycontext">Contextapi</Link>
-                                    </li>
+                                    </li>                         
                                     <li className="nav-item">
                                         <Link className="nav-link" to="mycharts">Mycharts</Link>
                                     </li>
@@ -59,7 +56,7 @@ function Mynav()
                                     <button className="btn btn-outline-success ms-2" type="button" data-bs-toggle="modal" data-bs-target="#resistor">Resistor</button>
                                     {/* <Userregistor/> */}
 
-                                </form>
+                                </form>.
                             </div>
                         </div>
                     </nav>
